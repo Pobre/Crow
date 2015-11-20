@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: |cff838996cr|cff2359ffSellGray
+## Notes: Crow's Announcer. Auto sell your trash!
+## Author: Pobre
+## Version: r1
+
+core\core.lua

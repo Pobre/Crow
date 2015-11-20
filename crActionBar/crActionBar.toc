@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: |cff838996cr|cff2359ffActionBar
+## Notes: Crow's ActionBar. 
+## Author: Pobre
+## Version: r2
+
+#core\bar1.lua
+
+temp\tempcustom.lua

@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: |cff838996cr|cff2359ffItemLevelOverlay
+## Notes: Crow Item Level Overlay.
+## Author: Pobre
+## Version: 0.1
+
+core\core.lua
+console\cmdlist.lua
+

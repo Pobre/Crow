@@ -1,0 +1,11 @@
+## Interface: 60200
+## Title: |cff838996cr|cff2359ffLibrary
+## Notes: Crow Lib. The library of Crow AddOns.
+## Author: Pobre
+## Version: 1.0
+
+Core\Init.lua
+Core\DragFrame.lua
+Core\Font.lua
+Console\ReloadUI.lua
+

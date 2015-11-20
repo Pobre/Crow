@@ -1,0 +1,11 @@
+## Interface: 60200
+## Title: |cff838996cr|cff2359ffAnnouncer
+## Notes: Crown's Announcer. Some simple announcements. Don't expect much, personal use.
+## Author: Pobre
+## Version: r43
+
+core\engine.lua
+config.lua
+locales\init.xml
+core\core.lua
+console\cmdlist.lua
