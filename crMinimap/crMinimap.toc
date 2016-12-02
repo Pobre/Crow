@@ -1,8 +1,8 @@
-## Interface: 60200
+## Interface: 70100
 ## Title: |cff838996cr|cff2359ffMinimap
 ## Notes: Crow's Minimap
-## Author: Pobre
-## Version: r14
+## Author: GrumpyShaman/P0br3 
+## Version: r15
 
 config.lua
-core\core.lua
+core\init.xml

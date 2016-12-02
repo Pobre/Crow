@@ -22,7 +22,7 @@
     shape = "SQUARE", -- Minimap Shape, can be Square or Round.
     backdrop = {
       bgFile = nil,  -- path to the background texture
-      edgeFile = "Interface\\AddOns\\rtmMinimap\\media\\blank",  -- path to the border texture
+      edgeFile = "Interface\\AddOns\\crMinimap\\media\\blank",  -- path to the border texture
       tile = false,  -- true to repeat the background texture to fill the frame, false to scale it
       tileSize = 32,    -- size (width or height) of the square repeating background tiles (in pixels)
       edgeSize = 1,    -- thickness of edge segments and square size of edge corners (in pixels)
@@ -59,7 +59,7 @@
   -- Mail
   cfg.mail = {
       size = 16,
-      icon = "Interface\\AddOns\\rtmMinimap\\media\\mail",
+      icon = "Interface\\AddOns\\crMinimap\\media\\mail",
   }
   
   -- Backdrop, attempting to create pixel border in minimap frame

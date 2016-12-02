@@ -61,9 +61,11 @@
   -- Design --
   ------------
   
+	-- Minimap Position
+	MinimapCluster:SetPoint("TOPRIGHT", 0, -1)
   -- Minimap Backdrop
   Minimap:SetBackdrop(cfg.minimap.backdrop)
-  Minimap:SetMaskTexture("Interface\\AddOns\\rtmMinimap\\media\\blank")
+  Minimap:SetMaskTexture("Interface\\AddOns\\crMinimap\\media\\blank")
   Minimap:SetBackdropBorderColor(0, 0, 0, 1)
   
   -- New Mail Notification

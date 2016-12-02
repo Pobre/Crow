@@ -1,1 +1,0 @@
-DAMAGE_TEXT_FONT = "Interface\\AddOns\\rtmCore\\fonts\\sd_fresh_font_by_synergydigital-d1phy4k.ttf"

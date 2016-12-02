@@ -5,7 +5,7 @@ local R, C, L = select(2, ...):unpack()
 -- Announcer's Command Handler --
 ---------------------------------
 
-local function handlerAnnouncer(msg, editbox)
+local function handlerAnnouncer(msg)
 	if msg == "on" then
 		print(L.Console.Announcer.Enabled)
 		C.Announcer.Enable = true
@@ -41,7 +41,7 @@ local function handlerAnnouncer(msg, editbox)
 	end
 end
 
-local function handlerSpell(msg, editbox)
+local function handlerSpell(ms)
 	if msg == "on" then
 		print(L.Console.Announcer.SpellEnabled)
 		C.Announcer.Spell = true
@@ -57,8 +57,8 @@ end
 -- Announcer's Command List --
 -------------------------------
 
-SLASH_RTM_A1 = "/rtma"
-SlashCmdList.RTM_A = handlerAnnouncer
+SLASH_CR_A1 = "/cra"
+SlashCmdList.CR_A = handlerAnnouncer
 
-SLASH_RTM_S1 = "/rtms"
+SLASH_RTM_S1 = "/crs"
 SlashCmdList.RTM_S = handlerSpell

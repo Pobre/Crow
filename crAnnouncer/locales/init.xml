@@ -1,5 +1,4 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/">
-	<!-- Locales -->
 	<Script file="enUS.lua"/>
 	<Script file="ptBR.lua"/>
 </Ui>
